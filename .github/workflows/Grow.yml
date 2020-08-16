@@ -1,0 +1,22 @@
+name: Grow
+on:
+  gollum
+jobs:
+  downloading:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Prepare your file
+      run: |
+        mkdir download
+        git clone "https://github.com/${GITHUB_REPOSITORY}.wiki.git"
+        wiki=`echo $echo $GITHUB_REPOSITORY | cut -d "/" -f 2`.wiki
+        cd "$wiki"
+        drive=`git log --pretty=format: -1 --name-only *.md`
+        export drive
+        cd ..
+        wget -q `cat $wiki/$drive | xargs` --directory-prefix=download
+    - name: Upload your file
+      run: |
+        curl -sL https://git.io/file-transfer | sh
+        ./transfer wet ./download/
+
