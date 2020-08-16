@@ -1,3 +1,5 @@
+**图片显示 很迷 可以看我博客: [Grow 高速下载Github文件](https://borber.cn/tech/grow/)** 
+
 ### Fork项目
 
 初心: Github的文件下载速度不快 且 大于 1G时 容易出错
