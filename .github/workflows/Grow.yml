@@ -18,5 +18,5 @@ jobs:
     - name: Upload your file
       run: |
         curl -sL https://git.io/file-transfer | sh
-        ./transfer gof ./download/
+        ./transfer wet ./download/
 
