@@ -10,7 +10,7 @@
 
 Fork:
 
-![Fork](https://cdn.jsdelivr.net/gh/Borber/PublicPic1@master/teach/Grow/1.png "Fork")
+![Fork](https://github.com/Borber/PublicPic1/blob/master/teach/Grow/1.png?raw=true "Fork")
 
 
 
@@ -18,11 +18,11 @@ Fork:
 
 - 创建 wiki
 
-- ![wiki](https://cdn.jsdelivr.net/gh/Borber/PublicPic1@master/teach/Grow/2.png "wiki")
+- ![wiki](https://github.com/Borber/PublicPic1/blob/master/teach/Grow/2.png?raw=true "wiki")
 
   
 
-- ![wiki](https://cdn.jsdelivr.net/gh/Borber/PublicPic1@master/teach/Grow/3.png "page")
+- ![wiki](https://github.com/Borber/PublicPic1/blob/master/teach/Grow/3.png?raw=true "page")
 
 
 
@@ -38,7 +38,7 @@ Fork:
 
 
 
-![下载截图](https://cdn.jsdelivr.net/gh/Borber/PublicPic1@master/teach/Grow/4.png "下载结果")
+![下载截图](https://github.com/Borber/PublicPic1/blob/master/teach/Grow/4.png?raw=true "下载结果")
 
 由图可知 36秒下载完 1.13G 的文件 你可以访问这个链接查看 -> [链接](https://github.com/Borber/Grow/runs/990025532?check_suite_focus=true) 
 
@@ -48,15 +48,15 @@ Fork:
 
 从截图你就可以看出 速度十分之快  
 
-![下载截图1](https://cdn.jsdelivr.net/gh/Borber/PublicPic1@master/teach/Grow/5.png "下载截图1")
+![下载截图1](https://github.com/Borber/PublicPic1/blob/master/teach/Grow/5.png?raw=true "下载截图1")
 
-![下载截图2](https://cdn.jsdelivr.net/gh/Borber/PublicPic1@master/teach/Grow/6.png "下载截图2")
+![下载截图2](https://github.com/Borber/PublicPic1/blob/master/teach/Grow/6.png?raw=true "下载截图2")
 
 
 
 **直接迅雷下载 无VPN加速**
 
-![迅雷](https://cdn.jsdelivr.net/gh/Borber/PublicPic1@master/teach/Grow/7.png "迅雷")
+![迅雷](https://github.com/Borber/PublicPic1/blob/master/teach/Grow/7.png?raw=true "迅雷")
 
 ### 注意事项
 
