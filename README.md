@@ -42,7 +42,9 @@ Fork:
 
 #### 本地下载部分
 
-从截图你就可以看出 速度十分之快
+**IDM + VPN 加速**
+
+从截图你就可以看出 速度十分之快  
 
 ![下载截图1](https://cdn.jsdelivr.net/gh/Borber/PublicPic1@master/teach/Grow/5.png "下载截图1")
 
@@ -50,7 +52,9 @@ Fork:
 
 
 
+**直接迅雷下载 无VPN加速**
 
+![迅雷](https://cdn.jsdelivr.net/gh/Borber/PublicPic1@master/teach/Grow/7.png "迅雷")
 
 ### 注意事项
 
