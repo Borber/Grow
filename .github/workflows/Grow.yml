@@ -15,8 +15,9 @@ jobs:
         export drive
         cd ..
         wget -q `cat $wiki/$drive | xargs` --directory-prefix=download
-    - name: Upload your file
-      run: |
-        curl -sL https://git.io/file-transfer | sh
-        ./transfer wet ./download/
+    - name: Upload archive
+        uses: actions/upload-artifact@v3
+        with:
+          name: download.zip
+          path: download/
 
